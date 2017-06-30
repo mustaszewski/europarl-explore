@@ -1,0 +1,9 @@
+BACKUPS/
+documentation/
+*.Rproj
+*.RData
+*.csv
+*~
+.RDataTmp
+.Rhistory
+.Rproj.user/
